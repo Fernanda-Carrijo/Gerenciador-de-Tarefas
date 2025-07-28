@@ -1,6 +1,6 @@
 # 📝 Gerenciador-de-Tarefas
 
-Meu primeiro gerenciador de tarefas em Java, com interface de linha de comando, que permite adicionar e listar tarefas. 
+Meu primeiro gerenciador de tarefas em Linguagem Java, com interface de linha de comando, que permite adicionar e listar tarefas. 
 
 ## 📦 Funcionalidades
 
